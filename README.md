@@ -2,10 +2,11 @@
 
 管理 `~/.dsh/persona.md` 的一键清空 / 导入。实际文件操作由 `scripts/` 下的脚本执行，本 skill 只负责触发 + 确认。
 
-## 适用对象
+## 环境依赖
 
-- DeepSeek Harness（DSH）用户：一个可由 AI agent 按需自动加载的 skill，克隆即用、无需构建。
-- 需要一键清空/导入用户画像的人
+- 操作系统：Windows
+- 运行时：Python 3（标准库）
+- 第三方软件：无（仅依赖系统自带的 PowerShell / 标准库）
 
 ## 目录结构
 
