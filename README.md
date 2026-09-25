@@ -1,3 +1,5 @@
+> ⚠️ **本仓库已废弃**：内容已并入 [agent-deploy](https://github.com/hpsks416/agent-deploy) 的 skills/persona-manager/ 子目录，请以 agent-deploy 为准。本仓库保留仅供历史归档。
+
 # persona-manager
 
 管理 `~/.dsh/persona.md` 的一键清空 / 导入。实际文件操作由 `scripts/` 下的脚本执行，本 skill 只负责触发 + 确认。
@@ -27,3 +29,4 @@
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
